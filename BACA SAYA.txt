@@ -1,0 +1,7 @@
+Server path
+http://localhost/perpus-server/
+
+Client path
+http://localhost/perpus-client
+
+Database 	: db_perpus_rest
